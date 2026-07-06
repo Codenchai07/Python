@@ -1,4 +1,4 @@
-# create a program capable of displaying to the user like KBC
+# create a program capable of displaying the question to the user like KBC
 
 questions = [
     """1. Which keyword is used to define a function in Python?
